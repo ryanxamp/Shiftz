@@ -1,6 +1,6 @@
 {
   "name": "Shiftz",
-  "description": "",
+  "description": "Simple volunteer employee and shift scheduler with customizable roles, shift templates, retail donation pickups, food donation logging, weight tracking, Google Calendar sync, Google Sheets import, and employee team chat.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
