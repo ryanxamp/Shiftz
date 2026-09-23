@@ -1,0 +1,1 @@
+this is vibe coded obviously but i couldn't find what i needed out there. i searched and searched. just needed a simple way to make a schedule of people that aren't getting paid with shift templates and roles and events.
